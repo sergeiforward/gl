@@ -1,0 +1,26 @@
+{
+  "name": "Grigiry's Chernov Landing",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sergeiforward/gl",
+  "authors": [
+    "Sergei Gushchin <YOUR EMAIL ADDRESSsergeigushin.fw@gmail.com>"
+  ],
+  "description": "Landing site for Grigory Chernov",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery.cookie": "jquery-cookie#~1.4.1",
+    "jquery-easing": "*",
+    "jquery.ui-to-top": "*",
+    "superfish": "~1.7.6"
+  }
+}

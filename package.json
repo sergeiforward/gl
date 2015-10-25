@@ -1,0 +1,38 @@
+{
+  "name": "grigory_chernov_landing",
+  "version": "1.0.0",
+  "description": "Landing site for Grigory Chernov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeiforward/gl.git"
+  },
+  "author": "Sergei Gushchin (sergeigushin.fw@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeiforward/gl/issues"
+  },
+  "homepage": "https://github.com/sergeiforward/gl#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "gulp": "^3.9.0",
+    "gulp-assets": "^0.2.2",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-import": "0.0.1",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-postcss": "^6.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.2",
+    "gulp-watch": "^4.3.5",
+    "postcss-assets": "^3.0.2",
+    "postcss-calc": "^5.0.0",
+    "postcss-import": "^7.1.0",
+    "postcss-mixins": "^2.1.0",
+    "postcss-nested": "^1.0.0",
+    "postcss-simple-vars": "^1.0.1"
+  }
+}

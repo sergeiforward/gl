@@ -36,6 +36,10 @@
 ehthumbs.db
 Thumbs.db
 
+/src/libs/
+/node_modules/
+/bower_components/
+
 # MODx files #
 ##############
 
