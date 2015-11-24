@@ -31,17 +31,18 @@ var appDir = 'src/app/'
 var src = {
   appCSS: CSSAppStarter,
   vendorJs: [
-    'src/libs/device/device.min.js',
     'src/libs/jquery/dist/jquery.min.js',
     'src/libs/jquery-easing/jquery.easing.min.js',
     'src/libs/jquery.cookie/jquery.cookie.min.js',
     'src/libs/jquery.ui-to-top/jquery.ui.totop.min.js',
-    'src/libs/rd_navbar/rd_navbar.js',
-    'src/libs/rd_parallax/rd_parallax.js',
-    'src/libs/rd_smoothscroll/rd_smoothscroll',
-    'src/libs/rd_styleswitcher/rd_styleswitcher.js',
-    'src/libs/tmstickup/tmstickup.js',
-    'src/libs/wow/wow.js'
+    'src/libs/wow/wow.js',
+    'src/libs/pointer-events-poly/pointer_events_polifill.js',
+    'src/strange_libs/tmstickup/tmstickup.js',
+    'src/strange_libs/rd_navbar/rd_navbar.js',
+    'src/strange_libs/rd_parallax/rd_parallax.js',
+    'src/strange_libs/rd_smoothscroll/rd_smoothscroll',
+    'src/strange_libs/rd_styleswitcher/rd_styleswitcher.js',
+    'src/strange_libs/device/device.min.js'
 
     
     

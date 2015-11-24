@@ -350,11 +350,11 @@ h2 + .row.mod1 {
 .brand:before {
   position: absolute;
   display: inline-block;
-  content: '\f0e6';
-  font-family: "FontAwesome";
+  content: '';
+  
   left: 0;
   top: 0;
-  background: #f2d03b;
+  background-color: #f2d03b;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -363,6 +363,8 @@ h2 + .row.mod1 {
   font-size: 70px;
   line-height: 146px;
   text-align: center;
+  background: url(../images/hr-icon.svg) center center no-repeat;
+  background-size: 65% 65%;
 }
 @media (max-width: 991px) {
   .brand:before {
@@ -1548,9 +1550,9 @@ footer .brand:before {
   }
 }
 footer .brand_name {
-  font-size: 57px;
+  font-size: 30px;
   line-height: 1;
-  margin-top: -20px;
+  margin-top: -10px;
 }
 @media (max-width: 991px) {
   footer .brand_name {
@@ -1581,4 +1583,9 @@ footer .brand_slogan {
   footer .brand_slogan {
     margin-top: -10px;
   }
+}
+
+
+div > ymaps {
+  width: 100% !important;
 }
