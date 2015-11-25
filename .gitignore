@@ -47,7 +47,7 @@ setup/
 _build/
 core/cache/
 
-#connectors_gl_xVCs4l0eEu/modx.config.js.php
-#core_gl_xVCs4l0eEu/config/config_gl_xVCs4l0eEu.inc.php
-#manager_gl_xVCs4l0eEu/config.core.php
-#config.core.php
+# connectors_gl_xVCs4l0eEu/modx.config.js.php
+# core_gl_xVCs4l0eEu/config/config_gl_xVCs4l0eEu.inc.php
+# manager_gl_xVCs4l0eEu/config.core.php
+# config.core.php
